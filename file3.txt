@@ -1,2 +1,3 @@
 Random piece  of text
 Line for merge conflict
+Added text
